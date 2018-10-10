@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is new file
 iske sth ab experiment hoga
 Ye pull k liuye jh
+=======
+This is in t2 to cause conflict from br1
+>>>>>>> br1
